@@ -1,0 +1,8 @@
+{
+  "name": "pos-cesumar",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "jquery-maskmoney": "^3.0.2"
+  }
+}
